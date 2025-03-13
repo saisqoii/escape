@@ -61,8 +61,8 @@
     
     <div class="container hidden" id="riddle2">
         <p><strong>"Hoe oud is isa?"</strong></p>
-        <input type="text" id="answer2" placeholder="Jouw antwoord">
-        <button onclick="checkAnswer(16, '15')">Controleer</button>
+        <input type="text" id="answer1" placeholder="Jouw antwoord">
+        <button onclick="checkAnswer(1, '17')">Controleer</button>
         <p id="message2"></p>
     </div>
 
